@@ -8,6 +8,7 @@ import { SupportChatWidget } from './components/SupportChatWidget';
 import { CompareWidget } from './components/CompareWidget'; // New
 import { LandingPage } from './pages/LandingPage';
 import { LoginPage } from './pages/LoginPage';
+
 import { Register } from './pages/Register';
 import { VerifyEmail } from './pages/auth/VerifyEmail';
 import { RegisterProducer } from './pages/producer/RegisterProducer';
